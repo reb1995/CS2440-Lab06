@@ -16,7 +16,7 @@ public class Lion extends Feline
 	
     public Lion(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
     
     /**
