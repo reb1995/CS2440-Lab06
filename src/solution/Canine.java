@@ -16,7 +16,7 @@ public abstract class Canine extends Animal
 	
     public Canine(Zoo zoo, String string) 
     {
-    	
+	super(zoo, string);
     }
     /**
      * Empty for Checkstyle!.
