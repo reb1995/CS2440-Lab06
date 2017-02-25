@@ -16,7 +16,7 @@ public abstract class Feline extends Animal
 	
     public Feline(Zoo zoo, String string) 
     {
-    	
+    	super(zoo, string);
     }
     /**
      * Empty for Checkstyle!.
