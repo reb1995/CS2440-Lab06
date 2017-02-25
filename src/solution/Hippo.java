@@ -16,7 +16,7 @@ public class Hippo extends Animal
 
     public Hippo(Zoo zoo, String string) 
     {
-    	
+    	super(zoo, string);
     }
 
     /**
