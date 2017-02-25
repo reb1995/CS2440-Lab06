@@ -15,7 +15,7 @@ public class Wolf extends Canine
 	 */
     public Wolf(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
 
     /**

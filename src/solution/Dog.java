@@ -18,7 +18,7 @@ public class Dog extends Canine implements Pet
 
     public Dog(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
     /**
      * Empty for Checkstyle!.

@@ -15,7 +15,7 @@ public class Cat extends Feline implements Pet
 
     public Cat(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
     /**
      * Empty for Checkstyle!.

@@ -16,7 +16,7 @@ public class Coyote extends Canine
 	
     public Coyote(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
 
     /**
