@@ -16,7 +16,7 @@ public class WildDog extends Canine
 	 */
     public WildDog(Zoo zoo, String string) 
     {
-		super(zoo, string);
+	super(zoo, string);
     }
 
 
