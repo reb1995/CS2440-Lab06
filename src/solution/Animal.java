@@ -29,6 +29,7 @@ public abstract class Animal
      */
     public Animal(Zoo zoo, String name)
     {
+	super(zoo, string);
     	this.zoo = zoo;
     	//this.zoo.equals(zoo);
     	animalName = name;
