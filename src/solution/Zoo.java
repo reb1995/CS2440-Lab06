@@ -108,7 +108,7 @@ public  class Zoo implements AnimalLocation
     
     /**
      * Empty for Checkstyle!.
-     * @return zooAnimals.size() sieze
+     * @return zooAnimals.size() size
      */
     public int getNumOfAnimals() 
     {
